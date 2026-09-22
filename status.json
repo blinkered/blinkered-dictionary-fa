@@ -1,0 +1,58 @@
+{
+  "language": "fa",
+  "built": "2026-09-22",
+  "candidates": 51132,
+  "shipped": 41801,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": "CC0-1.0",
+  "conforms": true,
+  "families": 6,
+  "checkable": 4,
+  "knee": 4,
+  "steps": [
+    {
+      "families": 1,
+      "added": "commoncrawl",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "internetarchive",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "wikimedia",
+      "kept": 41399,
+      "share": 0.80965,
+      "gained": 41399
+    },
+    {
+      "families": 4,
+      "added": "leipzig",
+      "kept": 41609,
+      "share": 0.813757,
+      "gained": 210
+    },
+    {
+      "families": 5,
+      "added": "ebible",
+      "kept": 41725,
+      "share": 0.816025,
+      "gained": 116
+    },
+    {
+      "families": 6,
+      "added": "tatoeba",
+      "kept": 41801,
+      "share": 0.817512,
+      "gained": 76
+    }
+  ]
+}
